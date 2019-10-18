@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+.menu{
+    width: 600px;
+    height: 40px;
+    border: 1px solid black;
+    float: right;
+}
+.menu ul li{
+    list-style: none;
+    float: left;
+}
+.menu ul li a{
+    text-decoration: none;
+    padding: 23px 23px;
+}
